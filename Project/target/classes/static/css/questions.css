@@ -1,0 +1,28 @@
+.img-with-text {
+    text-align: justify;
+    display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+    width: 40%;
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+	background-color: #D8E2E8;
+	text-align: center;
+}
+
+a {
+	font-size: 30px;
+}
+
+.video, .video {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+    width: 30%;
+}

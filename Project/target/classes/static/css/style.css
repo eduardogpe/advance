@@ -1,0 +1,16 @@
+body {
+	background-image:  url('https://data.whicdn.com/images/190881251/original.gif');
+	color: white;
+	text-align: center;
+	height: 100%; 
+
+  /* Center and scale the image nicely */
+ 	 
+  	background-repeat: no-repeat;
+ 	 background-size: cover;
+	
+}
+.center {
+	text-align: center;
+	list-style-position: inside;
+}
